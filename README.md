@@ -1,5 +1,6 @@
 # ☕ Coffee Shop Website
 
+
 A modern and responsive Coffee Shop Website developed using HTML, CSS, and JavaScript.
 
 ## 🚀 Technologies Used
